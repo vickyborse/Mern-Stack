@@ -1,0 +1,29 @@
+div{
+  background-color: yellow;
+}
+p{
+  background-color: orange;
+}
+ul{
+  background-color: red;
+}
+form{
+  background-color: red;
+}
+input{
+  background-color: greenyellow;
+
+}
+
+button{
+  color: blue;
+
+}
+
+button:hover{
+  background-color: #51ff00;
+}
+
+div:hover{
+  background-color: aqua;
+}
