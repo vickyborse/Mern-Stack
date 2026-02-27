@@ -1,0 +1,18 @@
+console.log("Game puzzle");
+
+let fav="avatar";
+let guess=prompt("Guess the movie name:");
+while(fav!=guess && guess!="quit")
+{
+    
+guess=prompt("Enter movie name");
+    
+}
+
+if(fav==guess)
+{
+    console.log("congratulationsu!!!!!");
+}
+else{
+   console.log("you quit")
+}
